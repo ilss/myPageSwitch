@@ -1,4 +1,4 @@
-<h1 align="center">Threejs 2个特效DEMO</h1>
+<h1 align="center">pageSwitch 改进版</h1>
 
 <p align="center">
   <a href="https://travis-ci.org/ElemeFE/element">
@@ -39,7 +39,7 @@
 > 概述
 
 ```
-星球大战&登陆背景
+删除当前page时，先跳转下一屏后再进行删除，原版的比较生硬。
 ```
 
 <p align="center">
